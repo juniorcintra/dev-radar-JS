@@ -25,6 +25,16 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "isDetached": true,
+    "detach": {
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.14.0-sdk36.0.0-fb8689e6-fd42-4b18-b01f-ac2ef3bc8681.tar.gz"
+    },
+    "scheme": "exp7315b7554fa14fd6b42865338b4729b0",
+    "android": {
+      "package": "com.sw5.radardev",
+      "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
+      "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
     }
   }
 }
